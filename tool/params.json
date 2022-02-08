@@ -1,0 +1,14 @@
+{
+	"url":"127.0.0.1:8667",
+    "post": 
+    [
+      {"id":"curltest","jsonrpc":"1.0","method":"getrechargeaddress","params":["BTC",false,1]},
+      {"id":"curltest","jsonrpc":"1.0","method":"getrechargeaddress","params":["ETH",false,1]},
+      {"id":"curltest","jsonrpc":"1.0","method":"getrechargeaddress","params":["OMNI_USDT",true,1]},
+      {"id":"curltest","jsonrpc":"1.0","method":"getrechargeaddress","params":["ERC20_USDT",true,1]},
+      {"id":"curltest","jsonrpc":"1.0","method":"getrechargeaddress","params":["EOS",false,1]},
+      {"id":"curltest","jsonrpc":"1.0","method":"getrechargeaddress","params":["XRP",false,1]}
+
+    ]
+}
+

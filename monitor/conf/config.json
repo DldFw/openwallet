@@ -1,0 +1,13 @@
+{
+	"logpath":"./log",
+	"daemon":false,
+	"callback_url":"http://172.31.30.4:2888/v1/wallet/currency/info/recharge/callback",
+	"mysql":
+	{
+		"url":"127.0.0.1",
+		"user": "root",
+		"pass": "a",
+		"db": "otc",
+		"port": 3306
+	}
+}

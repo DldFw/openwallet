@@ -1,0 +1,14 @@
+{
+	"otc_db":
+	{
+		"db":"otc",
+		"user":"root",
+		"pass":"a",
+		"url":"192.168.1.11",
+		"port":3306
+	},
+	"wallet_db":"wallet",
+	"fee_address_omni": "msYVAEYua7T8MoxMdiq58ebrZ7eNASNgbC",
+   	"eos_public_key": "EOS57rwNMjDfzwLAkHokPGhiN2FBucNQvNWwt41sHeaoTYTVR2UEA",
+    "eos_address": "aitd.eos"
+}

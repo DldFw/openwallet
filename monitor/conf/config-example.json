@@ -1,0 +1,13 @@
+{
+	"logpath":"./log",
+	"daemon":true,
+	"callback_url":"http://127.0.0.1:8888",
+	"mysql":
+	{
+		"url":"127.0.0.1",
+		"user": "root",
+		"pass": "pass",
+		"db": "otc",
+		"port": 3306
+	}
+}

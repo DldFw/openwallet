@@ -1,0 +1,11 @@
+{
+	"otc_db":
+	{
+		"db":"otc",
+		"user":"root",
+		"pass":"pass",
+		"url":"127.0.0.1",
+		"port":3306
+	},
+	"eth_key_db":"./ethkey"
+}
